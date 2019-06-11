@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Backend</string>
+
+    <string name="itemEventRepresentationName">Event</string>
+    <string name="itemMoveRepresentationName">Move</string>
+    <string name="itemNoticeRepresentationName">Notice</string>
+
+    <string name="timeIntervalTemplate">%s — %s</string>
+    <string name="timeTemplate">%02d:%02d</string>
+
+    <string name="itemEventDetailsTemplate">From: %s, to: %s, what: %s</string>
+    <string name="itemMoveDetailsTemplate">From: %s, to: %s, within: %s</string>
+    <string name="itemNoticeDetailsTemplate">When: %s, gate: %s</string>
+
+    <string name="calendarRepresentationTemplate">%02d:%02d %02d.%02d.%02d</string>
+
+    <string name="calendarUnavailable">Unavailable</string>
+
+    <string name="timeIntervalUnavailable">Unavailable</string>
+</resources>

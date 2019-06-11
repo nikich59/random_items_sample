@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="itemListTitle">Items:</string>
+
+    <string name="itemEventStartTime">Start time:</string>
+    <string name="itemEventEndTime">End time:</string>
+    <string name="itemEventName">Name:</string>
+
+    <string name="itemMoveFromPlace">From:</string>
+    <string name="itemMoveToPlace">To:</string>
+    <string name="itemMoveEstimatedTime">Estimated time:</string>
+
+    <string name="itemNoticeFlightDate">Flight date:</string>
+    <string name="itemNoticeGate">Gate:</string>
+
+    <string name="itemDataUnavailable">Unavailable</string>
+</resources>
